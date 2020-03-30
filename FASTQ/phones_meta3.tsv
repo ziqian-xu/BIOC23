@@ -1,0 +1,95 @@
+#										
+id	barcode-sequence	gender	daily screen time in min	frequency of phone cleanage	hand v phone	individual	hand or phone			
+#q2:types	categorical	categorical	numeric	categorical	categorical	categorical	categorical			
+515rcbc272	TAAGGTCGATAA	M	138	never	1P	1	P			
+515rcbc273	GTTGCTGAGTCC	M	360	never	2P	2	P			
+515rcbc274	ACACCTCACAAT	F	72	yearly	3P	3	P			
+515rcbc275	CACAACCACAAC	F	210	never	4P	4	P			
+515rcbc276	GAGAAGCTTATA	F	318	never	5P	5	P			
+515rcbc277	GTTAACTTACTA	F	136	never	6P	6	P			
+515rcbc278	GTTGTTCTGGGA	F	274	yearly	7P	7	P			
+515rcbc279	AGGGTGCCTTTA	F	229	never	8P	8	P			
+515rcbc280	GCCGCCAGGGTC	M	210	never	9P	9	P			
+515rcbc281	GCCACCGCCGGA	F	185	weekly	10P	10	P			
+515rcbc282	ACACACCCTGAC	M	220	monthly	11P	11	P			
+515rcbc284	ATAATTGCCGAG	F	135	monthly	13P	13	P			
+515rcbc285	CGGAGAGACATG	F	220	yearly	14P	14	P			
+515rcbc286	CAGCCCTACCCA	M	73	monthly	15P	15	P			
+515rcbc287	TCGTTGGGACTA	F	552	never	16P	16	P			
+515rcbc288	TAGGACGGGAGT	F	300	monthly	17P	17	P			
+515rcbc289	AAGTCTTATCTC	M	136	never	18P	18	P			
+515rcbc290	TTGCACCGTCGA	M	199	never	19P	19	P			
+515rcbc291	CTCCGAACAACA	M	360	weekly	20P	20	P			
+515rcbc292	TCTGGCTACGAC	M	188	yearly	21P	21	P			
+515rcbc293	AGTAGTTTCCTT	M	264	monthly	22P	22	P			
+515rcbc294	TAGATCCCAACC	F	32	never	23P	23	P			
+515rcbc295	GATAGCACTCGT	M	99	never	24P	24	P			
+515rcbc296	GTAATTGTAATT	M	203	never	25P	25	P			
+515rcbc297	TGCTACAGACGT	M	315	weekly	26P	26	P			
+515rcbc298	AGGTGAGTTCTA	F	263	monthly	27P	27	P			
+515rcbc299	AACGATCATAGA	M	282	yearly	28P	28	P			
+515rcbc300	GTTTGGCCACAC	F	241	monthly	29P	29	P			
+515rcbc301	GTCCTACACAGC	F	361	yearly	30P	30	P			
+515rcbc302	ATTTACAATTGA	M	138	never	1H	1	H 			
+515rcbc303	CCACTGCCCACC	M	360	never	2H	2	H 			
+515rcbc304	ATAGTTAGGGCT	F	72	yearly	3H	3	H 			
+515rcbc305	GACCCGTTTCGC	F	210	never	4H	4	H 			
+515rcbc306	TGACTGCGTTAG	F	318	never	5H	5	H 			
+515rcbc307	ACGTTAATATTC	F	136	never	6H	6	H 			
+515rcbc308	TCTAACGAGTGC	F	274	yearly	7H	7	H 			
+515rcbc309	GATCCCACGTAC	F	229	never	8H	8	H 			
+515rcbc311	TCATCTTGATTG	F	185	weekly	10H	10	H 			
+515rcbc312	TATATAGTATCC	M	220	monthly	11H	11	H 			
+515rcbc313	ACTGTTTACTGT	M	155	never	12H	12	H 			
+515rcbc314	GTCACGGACATT	F	135	monthly	13H	13	H 			
+515rcbc315	GAATATACCTGG	F	220	yearly	14H	14	H 			
+515rcbc316	GAATCTGACAAC	M	73	monthly	15H	15	H 			
+515rcbc317	ATTGCCTTGATT	F	552	never	16H	16	H 			
+515rcbc318	GAGCCCAAAGAG	F	300	monthly	17H	17	H 			
+515rcbc319	CCATGTGGCTCC	M	136	never	18H	18	H 			
+515rcbc320	TGTTCCTTGTTA	M	199	never	19H	19	H 			
+515rcbc321	CGCTAGGATGTT	M	360	weekly	20H	20	H 			
+515rcbc322	AGCGGTAGCGGT	M	188	yearly	21H	21	H 			
+515rcbc323	GTCAGTATGGCT	M	264	monthly	22H	22	H 			
+515rcbc324	CATAAGGGAGGC	F	32	never	23H	23	H 			
+515rcbc325	CAGGCCACTCTC	M	99	never	24H	24	H 			
+515rcbc326	ACAGTTGTACGC	M	203	never	25H	25	H 			
+515rcbc327	ACCAGAAATGTC	M	315	weekly	26H	26	H 			
+515rcbc328	CTCATCATGTTC	F	263	monthly	27H	27	H 			
+515rcbc329	TTAGGATTCTAT	M	282	yearly	28H	28	H 			
+515rcbc330	CAACGAACCATC	F	241	monthly	29H	29	H 			
+515rcbc331	ACACGTTTGGGT	F	361	yearly	30H	30	H 			
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

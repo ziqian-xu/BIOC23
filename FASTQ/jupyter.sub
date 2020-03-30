@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH -t 1:00:00
+#SBATCH -N 1
+#SBATCH -p short
+
+echo "loading modules"
+module load 2019
+module load Anaconda3
+module list
+echo
+echo "activating QIIME environment"
+source activate qiime2-2019.7
+echo
+
+# randomly selecting port
+PORT=`shuf -i 5000-5999 -n 1`
+
+echo "Selected port is: " $PORT
+echo
+echo "To connect to Jupyter copy & paste the following command to your local terminal (not Cartesius!):"
+echo
+echo "ssh -N -J socrates -L${PORT}:localhost:${PORT} ${USER}@vis.cartesius.surfsara.nl"
+echo
+echo "Running reverse SSH tunnel"
+ssh -o StrictHostKeyChecking=no -f -N -p 22 -R $PORT:localhost:$PORT int3
+echo
+echo "Running Jupyter lab"
+jupyter lab --no-browser --port $PORT
+echo
+echo "Jupyter lab shut down"
